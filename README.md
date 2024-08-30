@@ -30,3 +30,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saqlain017&show_icons=true&locale=en" alt="saqlain017" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saqlain017&" alt="saqlain017" /></p>
+
+[![saqlain017's GitHub | Stats](https://stats.quira.sh/saqlain017/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=saqlain017)
