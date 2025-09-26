@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Docport](docport.co)
-
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently exploring **MERN STACK / Cloud Infrastructure**
 
 - 👨‍💻 All of my projects are available at [https://github.com/saqlain017](https://github.com/saqlain017)
 
